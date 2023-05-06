@@ -1,6 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Inosh Niwantha</h1>
-
 <h3 align="center">A passionate Undergraduate</h3>
   
   
