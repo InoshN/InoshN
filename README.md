@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/inoshlive" target="blank"><img src="https://img.shields.io/twitter/follow/inoshlive?logo=twitter&style=for-the-badge" alt="inoshlive" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **Next.js, React**
+- 🌱 currently learning **Next.js, React**
 
 - 💬 Ask me about **PHP,JAVA,HTML,CSS,JAVA SCERIPT,SQL,KOTLIN,PYTHON**
 
